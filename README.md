@@ -1,0 +1,2 @@
+# Pima-Indiands-Dataset
+Dataset csv of Pima Indians Diabetes case
